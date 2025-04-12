@@ -55,4 +55,3 @@ The frontend project is organized as follows:
 
 Contributions to this project are welcome! If you encounter any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-For more details on the project, check out the [live demo](https://job-portal-bm9avan.vercel.app)!
